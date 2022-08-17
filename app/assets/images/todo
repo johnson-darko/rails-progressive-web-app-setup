@@ -1,0 +1,32 @@
+Go to https://www.favicon-generator.org/
+Generate the full pack of icons
+Replace the existing favicon.ico in the rails public folder by the one you just generated
+Create an icons folder in app/assets/images and add your icons to it
+
+
+app
+|__ assets
+    |__ images
+        |__ icons
+            |__ android-icon-144x144.png
+            |__ apple-icon-114x114.png
+            |__ apple-icon-60x60.png
+            |__ favicon-16x16.png
+            |__ ms-icon-310x310.png
+            |__ android-icon-192x192.png
+            |__ apple-icon-120x120.png
+            |__ apple-icon-72x72.png
+            |__ favicon-32x32.png
+            |__ ms-icon-70x70.png
+            |__ android-icon-36x36.png
+            |__ apple-icon-144x144.png
+            |__ apple-icon-76x76.png
+            |__ favicon-96x96.png
+            |__ android-icon-48x48.png
+            |__ apple-icon-152x152.png
+            |__ android-icon-72x72.png
+            |__ apple-icon-180x180.png
+            |__ ms-icon-144x144.png
+            |__ android-icon-96x96.png
+            |__ apple-icon-57x57.png
+            |__ ms-icon-150x150.png
