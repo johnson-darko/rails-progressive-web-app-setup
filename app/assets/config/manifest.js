@@ -3,3 +3,4 @@
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
 // app/assets/config/manifest.json.erb
+//= link manifest.json
