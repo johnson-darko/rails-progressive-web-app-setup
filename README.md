@@ -1,7 +1,7 @@
 # README
 How can you test the A2HS feature in development?
-* Install ngrok
-* # mac OSX > brew cask install ngrok
+* Install ngrok. 
+* # mac OSX > brew install ngrok/ngrok/ngrok
 
 # linux > sudo snap install --edge ngrok
 
